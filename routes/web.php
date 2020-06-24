@@ -23,3 +23,23 @@ Route::get('/test1', function () {
     return view('dashboard');
 });
 
+Route::get('/test2', function () {
+    return view('contact');
+});
+Route::get('/test3', function () {
+    return view('profile');
+});
+
+Route::get('/test4', function () {
+    return view('superadmin');
+});
+
+Route::get('/test2', function () {
+    return view('contact');
+});
+
+Route::get('/test2', function () {
+    return view('contact');
+});
+
+
