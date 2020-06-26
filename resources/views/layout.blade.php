@@ -247,7 +247,7 @@
 
         <!-- footer-->
         <footer class="main-footer">
-            <strong>Copyright &copy; 2020 <a href="http://">Bharat / Chirag</a>.</strong>
+            <strong>Copyright &copy; 2020 <a href="test2">Bharat / Chirag</a>.</strong>
 
             <div class="float-right d-none d-sm-inline-block">
                 <b></b>
@@ -292,7 +292,7 @@
 <script src="dist/js/pages/dashboard.js"></script>
 <!-- AdminLTE for demo purposes -->
 <script src="dist/js/demo.js"></script>
-</body>
+
     
 <!-- page script -->
 <script>
