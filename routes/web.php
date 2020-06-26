@@ -34,8 +34,8 @@ Route::get('/test4', function () {
     return view('superadmin');
 });
 
-Route::get('/test2', function () {
-    return view('contact');
+Route::get('/test5', function () {
+    return view('calender');
 });
 
 Route::get('/test2', function () {
